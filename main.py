@@ -93,7 +93,6 @@ print(info4)
 # Gathering information about user's order and printing
 print("5. Would you like heated seats?")
 response4 = input("Please enter 'yes' or 'no': ")
-print(response4)
 
 # Printing a blank line
 print()
@@ -118,7 +117,7 @@ print("====================")
 
 print("~ Summary ~")
 print(f"Model Option: {response}")
-print(f"")
+print(f"Weather Package: {response1}")
 print(f"Desired Color: {response2}")
 print(f"Engine Type: {response3}")
 print(f"Upgrade to Heated Seats: {response4}")
