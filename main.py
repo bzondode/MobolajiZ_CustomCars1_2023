@@ -1,5 +1,5 @@
 # Prints a line of equal signs
-print("====================")
+print("===========================================")
 
 # Store Welcome message in a variable
 greeting = "Welcome to the UMBC Car Customization Form!"
@@ -8,7 +8,7 @@ greeting = "Welcome to the UMBC Car Customization Form!"
 print(greeting)
 
 # Prints a line of equal signs
-print("====================")
+print("===========================================")
 
 # Printing a blank line
 print()
